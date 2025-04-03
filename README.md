@@ -1,5 +1,5 @@
 
-eriuagg gf ai fs gfiag sfasg fga fs faogfouasgfga fg foauf oa usgf
+eriuagg gf ai fs gfiag sfasg fga fs faogfouasgfga fg foauf oa usgf\n
 auosgfouagfuoasgfosu gag uuosagfoasugfouagf oug oausfguo auf ouagsfgosua
 
 1:
