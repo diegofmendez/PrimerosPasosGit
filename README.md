@@ -23,11 +23,11 @@ auosgfouagfuoasgfosu gag uuosagfoasugfouagf oug oausfguo auf ouagsfgosua
 10:   
 ![image](https://github.com/user-attachments/assets/6299f897-fcaa-4048-897e-428dc855c7e3)  
 ...  
-![image](https://github.com/user-attachments/assets/69e151f9-314a-4a10-b756-9e5082d46024)
-11: 
-![image](https://github.com/user-attachments/assets/2ab8aa51-53c0-42f5-899c-722904785a1e)
-12:
-![image](https://github.com/user-attachments/assets/02f2796a-8b7c-476a-bfc2-d30e2144e871)
+![image](https://github.com/user-attachments/assets/69e151f9-314a-4a10-b756-9e5082d46024)  
+11:  
+![image](https://github.com/user-attachments/assets/2ab8aa51-53c0-42f5-899c-722904785a1e)  
+12:  
+![image](https://github.com/user-attachments/assets/02f2796a-8b7c-476a-bfc2-d30e2144e871)  
 13:
 ![image](https://github.com/user-attachments/assets/390045d4-133e-405f-92c0-ccd9ec040d4f)  
 ...  
