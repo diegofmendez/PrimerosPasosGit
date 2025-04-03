@@ -1,7 +1,3 @@
-
-eriuagg gf ai fs gfiag sfasg fga fs faogfouasgfga fg foauf oa usgf     
-auosgfouagfuoasgfosu gag uuosagfoasugfouagf oug oausfguo auf ouagsfgosua
-
 1:  
 ![image](https://github.com/user-attachments/assets/809a8a1a-f16a-41cf-ba27-692d41e8403e)  
 2:  
