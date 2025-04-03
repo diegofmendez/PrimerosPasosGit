@@ -2,25 +2,25 @@
 eriuagg gf ai fs gfiag sfasg fga fs faogfouasgfga fg foauf oa usgf     
 auosgfouagfuoasgfosu gag uuosagfoasugfouagf oug oausfguo auf ouagsfgosua
 
-1:
-![image](https://github.com/user-attachments/assets/809a8a1a-f16a-41cf-ba27-692d41e8403e)
-2:
-![image](https://github.com/user-attachments/assets/cff0b954-d67b-4b84-b8da-3b3489e0d886)
-3:
-![image](https://github.com/user-attachments/assets/21e034d9-cb39-4929-8ca4-915f7e395b6e)
-4:
-![image](https://github.com/user-attachments/assets/d02d4b75-13f8-4a38-8a39-c966fe162586)
-5.
-![image](https://github.com/user-attachments/assets/9d1dd47a-dcbb-47de-8f48-5ba8d9051f47)
-6:
-![image](https://github.com/user-attachments/assets/b063c9e9-7271-45bd-ad09-f7f8b184f568)
-7:
-![image](https://github.com/user-attachments/assets/ab361125-d83f-46b5-95ce-f27c3bad1278)
-8:
-![image](https://github.com/user-attachments/assets/ba8e4b2a-3313-4b7d-806c-18955da08995)
-9:
-![image](https://github.com/user-attachments/assets/1eb0179a-d539-4c64-9a06-09475e4f5c80)
-El 10: 
+1:  
+![image](https://github.com/user-attachments/assets/809a8a1a-f16a-41cf-ba27-692d41e8403e)  
+2:  
+![image](https://github.com/user-attachments/assets/cff0b954-d67b-4b84-b8da-3b3489e0d886)  
+3:  
+![image](https://github.com/user-attachments/assets/21e034d9-cb39-4929-8ca4-915f7e395b6e)  
+4:  
+![image](https://github.com/user-attachments/assets/d02d4b75-13f8-4a38-8a39-c966fe162586)  
+5.  
+![image](https://github.com/user-attachments/assets/9d1dd47a-dcbb-47de-8f48-5ba8d9051f47)  
+6:  
+![image](https://github.com/user-attachments/assets/b063c9e9-7271-45bd-ad09-f7f8b184f568)  
+7:  
+![image](https://github.com/user-attachments/assets/ab361125-d83f-46b5-95ce-f27c3bad1278)  
+8:  
+![image](https://github.com/user-attachments/assets/ba8e4b2a-3313-4b7d-806c-18955da08995)  
+9:  
+![image](https://github.com/user-attachments/assets/1eb0179a-d539-4c64-9a06-09475e4f5c80)  
+10:   
 ![image](https://github.com/user-attachments/assets/6299f897-fcaa-4048-897e-428dc855c7e3)
 ...
 ![image](https://github.com/user-attachments/assets/69e151f9-314a-4a10-b756-9e5082d46024)
