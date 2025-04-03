@@ -163,11 +163,12 @@ public class PrimerosGit {
             case 27:
                 System.out.println("Ingrese una temperatura en Farenheit(no ingrese el simbolo)");
                 valor1 = tryDouble(scanner);
-                valor2 = valor1-32;
-                System.out.println("El valor de la temperatura es: "+((valor2*5)/9));
+                System.out.println("El valor de la temperatura es: "+(ejercicio27(valor1)));
+                break;
+
             default:
                 break;
-            case 28:
+            
                 
         }
     } 
@@ -277,7 +278,7 @@ public class PrimerosGit {
             return "No existe solución";
         } else if(discriminante==0){
             if (c<0){
-                Math.abs(c);
+                return "("+Math.sqrt(a)+"x +"+Math.sqrt(Math.abs(c))+")^2";
             }
             return "("+Math.sqrt(a)+"x +"+Math.sqrt(c)+")^2";
         }else if(discriminante>0){
@@ -289,6 +290,7 @@ public class PrimerosGit {
     public static void ejercicio25(int valor1, int valor2, int valor3){
         
     }
+    
     public static void ejercicio26(int valor1, int valor2, int valor3){
         int valorTemp;
         boolean check = true;
@@ -310,6 +312,16 @@ public class PrimerosGit {
             }
         }
     } 
+    
+    public static double ejercicio27(double temperatura){
+        double newTemperatura = ((temperatura-32)*5)/9;
+        if (newTemperatura>999){
+            return 999;
+        } else {
+            return newTemperatura;
+        }
+    }
+    
     public static void ejercicio28(){
         for (int i = 1; i <= 10; i++) {
             switch (i) {
@@ -317,7 +329,7 @@ public class PrimerosGit {
                     System.out.println("1: Mensaje 1 hola");
                     break;
                 case 2:
-                    System.out.println("2: Mensaje 2 chao");
+                   System.out.println("2: Mensaje 2 chao");
                     break;
                 case 3:
                     System.out.println("3: No tiene el break entonces se ejecuta el de abajo");
@@ -330,8 +342,10 @@ public class PrimerosGit {
         }
     }
     public static void ejercicio29(){
-        
+        System.out.println("control z y control x no hacen nada en java o al menos a mi no");
     }
+    
+
 }
 
 
